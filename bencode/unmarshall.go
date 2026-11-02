@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/trixky/gobencode/utils"
+	"github.com/corbo-fr/gobencode/utils"
 )
 
 // unmarshallPath unmarshall the Path attribute from a bencode

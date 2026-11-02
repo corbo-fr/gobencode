@@ -5,8 +5,8 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/trixky/gobencode/bencode"
-	"github.com/trixky/gobencode/parser"
+	"github.com/corbo-fr/gobencode/bencode"
+	"github.com/corbo-fr/gobencode/parser"
 )
 
 // ParseFromReader parses the bencode format from reader in interface
