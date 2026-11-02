@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/trixky/gobencode/utils"
+	"github.com/corbo-fr/gobencode/utils"
 )
 
 const (

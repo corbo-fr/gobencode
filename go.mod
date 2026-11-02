@@ -1,3 +1,3 @@
-module github.com/trixky/gobencode
+module github.com/corbo-fr/gobencode
 
 go 1.18

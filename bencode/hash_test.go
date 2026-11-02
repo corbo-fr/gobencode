@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/trixky/gobencode/parser"
+	"github.com/corbo-fr/gobencode/parser"
 )
 
 func TestGetInfoHash(t *testing.T) {

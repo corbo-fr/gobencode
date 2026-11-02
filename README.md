@@ -6,12 +6,12 @@ A simple library for parse and unmarshall the [bencode](https://en.wikipedia.org
 
 ### Get the package
 ```bash
-go get -u github.com/trixky/gobencode
+go get -u github.com/corbo-fr/gobencode
 ```
 
 ### Import the package
 ```go
-import bencode "github.com/trixky/gobencode"
+import bencode "github.com/corbo-fr/gobencode"
 ```
 
 ### Unmarshall from reader and get a bencode object
